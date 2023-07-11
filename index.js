@@ -1,2 +1,2 @@
-let str = "ram";
+let str = 'ram';
 console.log(str);
